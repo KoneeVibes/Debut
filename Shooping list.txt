@@ -2,6 +2,7 @@ Shopping list;
 
 Apples
 Oranges
-Bannanas
+Bananas
 cherries
 carrots
+cereal
